@@ -1,10 +1,12 @@
-##Reverse Latin Numbers Order || Change It To Arabic
+## Reverse Latin Numbers Order || Change It To Arabic
 By Using This Library You Can Change Latin Numbers Order From Left to Right or change them to Arabic and store them in new file.
 
-###Installation
+### Installation
+-------------
 ```pip install latin_to_arabic_number```
 
 ### How to use it?
+--------------
 There are two methods:
 1. latin_to_arabic(file_to_read,file_to_save) 
 2. reverse_numbers_order(file_to_read,file_to_save) 
@@ -14,7 +16,8 @@ There are two methods:
      - file_to_save: Directory To save result.
 
 
-### Usage
+### Example
+--------------
 
 ```python
 from latin_to_arabic_number import reverse_numbers_order, latin_to_arabic
